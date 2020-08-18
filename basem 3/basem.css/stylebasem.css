@@ -1,0 +1,50 @@
+body {}
+
+h1 {
+    color: rgba(243, 69, 69, .9);
+}
+
+p {
+    colo: #000000
+}
+
+h2 {
+    color: rgba(218, 130, 31, .8);
+}
+
+p {
+    color: #ff8500;
+}
+
+
+h3 {
+    color: rgba(205, 241, 71, .6)
+}
+
+p {
+    col: #000000
+}
+
+h4 {
+    color: rgba(85, 218, 24, .5)
+}
+
+p {
+    color: #a6b836;
+}
+
+h5 {
+    color: rgba(82, 159, 223, 8)
+}
+
+p {
+    color: #000000;
+}
+
+h6 {
+    color: rgba(209, 40, 187, 4)
+}
+
+p {
+    color: #66335c;
+}
